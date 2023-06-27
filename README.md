@@ -21,3 +21,6 @@ When my choice was "Scissors", and the computer choice was "Rock", I lost
 When my choice was "Scissors", and the computer choice was "Paper",computer wins.
 
 programming language used here is "python".
+output:
+![Screenshot (15)](https://github.com/Gopinath-2002/rock-paper-scissor/assets/114936914/761214ff-33e3-4100-ab7e-1eabf33e3a67)
+
